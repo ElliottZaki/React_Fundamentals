@@ -12,7 +12,7 @@
 // greeting = (message) => alert(`${message}, everyone!`);
 // greeting('Good afternoon');
 
-// If you require an if else statement than use the curley brakcets like so:
+// If you require more than one statement than we can use the curley brakcets like so:
 
 createblog = (title, body) => {
   if(!title) {
