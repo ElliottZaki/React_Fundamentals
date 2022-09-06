@@ -7,7 +7,7 @@
 // };
 
 // Object destructuring:
-// We are picking which key valye pairs we want to use
+// We are picking which key value pairs we want to use
 // let {morning, afternoon} = thingsToDo;
 
 // You can even change the values like so:
